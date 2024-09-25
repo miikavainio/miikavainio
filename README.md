@@ -2,7 +2,7 @@
 
 # About Me:
 I'm currently studying third year in Tampere University of Applied Sciences  
-Interest in software production and data analysis.
+<!--Interest in software production and data analysis. -->
 
 
 ## 🌐 Socials:
