@@ -1,7 +1,8 @@
 ## Hey there!
 
 # About Me:
-I'm currently learning Python
+I'm currently studying third year in Tampere University of Applied Sciences  
+Interest in software production and data analysis.
 
 
 ## 🌐 Socials:
